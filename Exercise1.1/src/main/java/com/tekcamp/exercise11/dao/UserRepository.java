@@ -1,9 +1,11 @@
-package com.tekcamp.exercise1.dao;
+package com.tekcamp.exercise11.dao;
+
+
 
 import org.springframework.stereotype.Repository;
 
 
-import com.tekcamp.exercise1.Model.User;
+import com.tekcamp.exercise11.Model.User;
 
 import org.springframework.data.repository.CrudRepository;
 

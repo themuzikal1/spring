@@ -1,12 +1,12 @@
-package com.tekcamp.exercise1.Controller;
+package com.tekcamp.exercise11.Controller;
 
 import java.util.ArrayList;
 import java.util.List;
 
 import org.springframework.web.bind.annotation.*;
 
-import com.tekcamp.exercise1.Model.User;
-import com.tekcamp.exercise1.Services.UserService;
+import com.tekcamp.exercise11.Model.User;
+import com.tekcamp.exercise11.Services.UserService;
 
 
 @RestController

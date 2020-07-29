@@ -8,11 +8,11 @@
 		<version>2.3.2.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.tekcamp.exercise1</groupId>
-	<artifactId>Exercise1</artifactId>
+	<groupId>com.tekcamp.exercise1.1</groupId>
+	<artifactId>Exercise1.1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Exercise1</name>
-	<description>Demo project for Spring Boot</description>
+	<name>Exercise1.1</name>
+	<description>Exercise1.1</description>
 
 	<properties>
 		<java.version>11</java.version>

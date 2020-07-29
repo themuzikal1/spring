@@ -1,8 +1,10 @@
-package com.tekcamp.exercise1.Services;
+package com.tekcamp.exercise11.Services;
+
+
 
 import java.util.List;
 
-import com.tekcamp.exercise1.Model.User;
+import com.tekcamp.exercise11.Model.User;
 
 public interface UserService {
 	List<User> getUsers();

@@ -1,4 +1,6 @@
-package com.tekcamp.exercise1.Model;
+package com.tekcamp.exercise11.Model;
+
+
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

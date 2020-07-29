@@ -1,12 +1,12 @@
-package com.tekcamp.exercise1.Services.Implementation;
+package com.tekcamp.exercise11.Services.Implementation;
 
 import java.util.ArrayList;
 import java.util.List;
 
 import org.springframework.stereotype.Service;
-import com.tekcamp.exercise1.Model.User;
-import com.tekcamp.exercise1.Services.UserService;
-import com.tekcamp.exercise1.dao.UserRepository;
+import com.tekcamp.exercise11.Model.User;
+import com.tekcamp.exercise11.Services.UserService;
+import com.tekcamp.exercise11.dao.UserRepository;
 
 
 @Service
