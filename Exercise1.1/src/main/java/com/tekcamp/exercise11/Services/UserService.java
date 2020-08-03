@@ -1,16 +1,18 @@
 package com.tekcamp.exercise11.Services;
 
-
-
-import java.util.List;
-
-import com.tekcamp.exercise11.Model.User;
+import com.tekcamp.exercise11.Dto.UserDto;
 
 public interface UserService {
-	List<User> getUsers();
+	// List<User> getUsers();
 
-	void createUser(User user);
+	UserDto getUsers();
 
-	User getUser(String firstName);
+	UserDto createUser(UserDto userDto);
+
+	UserDto getUser(String firstName);
+
+	void deleteUser(Long id);
+
+	UserDto updateUser(String firstName, UserDto userDto);
 
 }
